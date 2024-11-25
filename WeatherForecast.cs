@@ -12,6 +12,8 @@ namespace RemoteMultiSiteMobileBasedExpenseManager
 
         public int Tempo { get; set; }
 
-        public string nameTemee {get; set;}
+        public string nameTemee { get; set; }
+
+        public string ofName { get; set; }
     }
 }
